@@ -25,3 +25,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+# streamlit run C:\Users\5EIN\OneDrive\Desktop\woodpecker\woodpecker-hackathon\app.py
